@@ -1,0 +1,3 @@
+[submodule "sf2_loader"]
+	path = sf2_loader
+	url = https://github.com/Rainbow-Dreamer/sf2_loader.git
